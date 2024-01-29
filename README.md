@@ -1,2 +1,2 @@
-# Lyft-Backend-Engineeing
-This repo contains the codebase of the tasks included in the virtual experience program of Forage.
+# Starter Repo
+This repo has everything you need to get started on the program, good luck!
